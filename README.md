@@ -1,6 +1,6 @@
 # Releasing Open Source
 
-You want to release something as open source? Awesome! It's up to you to get it ready, but don't worry, you are never alone. Open a [new issue](issues/new?template=new-release.md) to get started. [Consider these questions as you start to open source the project.](docs/key-questions-for-choosing-projects.md)
+You want to release something as open source? Awesome! It's up to you to get it ready, but don't worry, you are never alone. Open a [new issue](issues/new?template=new-release.md) to get started. [Consider these questions as you start to open source the project](docs/key-questions-for-choosing-projects.md), and use this [template CONTRIBUTING.md file](https://github.com/mattermost/desktop/blob/master/CONTRIBUTING.md) to outline the ways an open source community can contribute to your project.
 
 ## What should be open source?
 
@@ -16,7 +16,13 @@ Before you open source your project, consider the effort required to maintain it
 
 ## FAQ
 
+#### Who can I contact for questions?
+
+Reach out to Jason Blais via jason[at]mattermost.com for questions.
+
 #### Who owns the code I contribute to open source projects?
+
+Each author retains copyright to their code, including code contributed by the community.
 
 ## License
 
